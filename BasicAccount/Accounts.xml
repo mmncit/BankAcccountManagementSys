@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+    <Account>
+        <Type>Saving</Type>
+        <AccountNumber>104</AccountNumber>
+        <Owner>James Gosling</Owner>
+        <Balance>5000</Balance>
+        <InterestRate>0.24</InterestRate>
+        <MinimumBalance>200</MinimumBalance>
+    </Account>
+    <Account>
+        <Type>Checking</Type>
+        <AccountNumber>103</AccountNumber>
+        <Owner>Edwin Catmull</Owner>
+        <Balance>197.89174474965686072485798605</Balance>
+        <InterestRate>0.06</InterestRate>
+        <OverdraftLimit>20</OverdraftLimit>
+    </Account>
+    <Account>
+        <Type>Saving</Type>
+        <AccountNumber>101</AccountNumber>
+        <Owner>Donald Knuth</Owner>
+        <Balance>1208.1089453636953631116451182</Balance>
+        <InterestRate>0.12</InterestRate>
+        <MinimumBalance>50.0</MinimumBalance>
+    </Account>
+    <Account>
+        <Type>Checking</Type>
+        <AccountNumber>102</AccountNumber>
+        <Owner>David Lowe</Owner>
+        <Balance>2839.0560216046841033123660278</Balance>
+        <InterestRate>0.12</InterestRate>
+        <OverdraftLimit>50.0</OverdraftLimit>
+    </Account>
+</Accounts>
